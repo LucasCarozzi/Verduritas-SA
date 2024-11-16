@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VerduritasSAPP</string>
+    <string name="hint_date">Selecciona una fecha</string>
+    <string name="button_next">Guardar cosecha</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_results">Resultados</string>
+    <string name="button_delete">Borrar</string>
+    <string name="button_delete_all">Borrar todo</string>
+    <string name="button_back">Volver</string>
+    <string name="button_new_harvest">Agregar otra cosecha</string>
+    <string name="result">Resultado</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="welcome_message">Bienvenido/a %1$s</string>
+    <string name="confirm_delete">Confirmar eliminación</string>
+    <string name="confirm_delete_message">¿Estás seguro de que quieres eliminar esta cosecha?</string>
+    <string name="confirm_delete_all">Confirmar eliminación total</string>
+    <string name="confirm_delete_all_message">¿Estás seguro de que quieres eliminar todas las cosechas?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="harvest_updated">Cosecha actualizada exitosamente</string>
+    <string name="duplicate_harvest">Esta cosecha ya existe para esta fecha. Por favor elige otra fecha.</string>
+    <string name="todays_harvests">Tus Cosechas de Hoy</string>
+    <string name="all_harvests">Tus Cosechas</string>
+
+    <!-- Añade el ID de cliente web de Google aquí -->
+    <string name="default_web_client_id">Lucas</string>
+
+    <!-- Strings para registro -->
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_country">País</string>
+    <string name="hint_gender">Género</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_register">REGISTRARSE</string>
+    <string name="btn_login">INICIAR SESIÓN</string>
+    <string name="btn_google">Continuar con Google</string>
+    <string name="no_account">¿No tienes una cuenta? Regístrate</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="login_error">Error en el inicio de sesión</string>
+    <string name="google_error">Error en el inicio de sesión con Google</string>
+    <string name="fill_fields">Por favor complete todos los campos</string>
+    <string name="crop_registered">Cultivo registrado exitosamente</string>
+    <string name="crop_saved">Cultivo guardado exitosamente</string>
+    <string name="crops_deleted">Todos los cultivos han sido borrados</string>
+    <string name="no_crops">No hay cultivos registrados</string>
+
+    <!-- Arrays -->
+    <string-array name="Tipos_de_cultivos">
+        <item>Tomates (80 días hasta la cosecha)</item>
+        <item>Cebollas (120 días hasta la cosecha)</item>
+        <item>Lechugas (60 días hasta la cosecha)</item>
+        <item>Apio (85 días hasta la cosecha)</item>
+        <item>Choclo (90 días hasta la cosecha)</item>
+    </string-array>
+</resources>

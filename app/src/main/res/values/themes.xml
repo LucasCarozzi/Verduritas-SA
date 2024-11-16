@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VerduritasSA" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Colores primarios -->
+        <item name="colorPrimary">@color/button_start</item>
+        <item name="colorPrimaryDark">@color/button_border</item>
+        <item name="colorAccent">@color/dark_gradient</item>
+
+        <!-- Colores de la interfaz -->
+        <item name="android:windowBackground">@color/background_view</item>
+        <item name="android:textColor">@color/text_interior</item>
+
+        <!-- Estado de la barra -->
+        <item name="android:statusBarColor">@color/button_border</item>
+    </style>
+</resources>
